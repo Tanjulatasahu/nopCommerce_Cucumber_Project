@@ -1,0 +1,3 @@
+com\Cucumber_project\qa\Main.class
+com\Cucumber_project\qa\pages\AddCustomerPage.class
+com\Cucumber_project\qa\pages\LoginPage.class
